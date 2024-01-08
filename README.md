@@ -1,7 +1,7 @@
 ## Informacje ogólne
 Strona internetowa stworzona w celu indywidualnej praktyki.
 
-Link do strony: https://stomatologia-zebuszka.vercel.app/
+Link do strony: [https://stomatologia-zebuszka.vercel.app/](https://zebuszka-stomatologia.vercel.app/)
 
 ## Użyte technologie
 * HTML
